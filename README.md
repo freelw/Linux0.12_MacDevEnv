@@ -1,7 +1,7 @@
 # Linux0.12_MacDevEnv
 
 ## 目标
-1. 再mac环境下快速搭建linux0.12调试环境
+1. 在mac环境下快速搭建linux0.12调试环境
 
 ## 依赖
 
